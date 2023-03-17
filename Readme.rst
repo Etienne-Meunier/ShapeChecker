@@ -14,7 +14,7 @@ ShapeCheck can help you to :
    specify the dimensions
 3. Share your dictionary of dimensions through your code.
 
-Basic Usage
+Usage
 -----------
 
 .. code:: python
