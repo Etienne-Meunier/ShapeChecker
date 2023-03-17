@@ -1,4 +1,4 @@
-ShapeCheck
+ShapeChecker
 ==========
 
 This small package (~60 lines of code comments included) is an extension
@@ -17,7 +17,7 @@ Basic Usage
 
 .. code:: python
 
-   from ShapeCheck import ShapeCheck
+   from ShapeChecker import ShapeCheck
 
    def myfunction(x) :
        sc = ShapeCheck() # Instantiate your ShapeCheck object
