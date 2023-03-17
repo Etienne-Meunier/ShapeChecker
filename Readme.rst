@@ -1,6 +1,8 @@
 ShapeChecker
 ==========
 
+``pip install ShapeChecker``
+
 This small package (~60 lines of code comments included) is an extension
 to awesome `einops <https://einops.rocks/>`__ and your new tool to
 assist you when doing tensors manipulation.
